@@ -5,7 +5,7 @@
 
 
 ## 1. Introduction
-Clustering is an unsupervised machine learning method that aims to uncover subpopulation structures in the data. This analysis helps us to gain a deeper understanding of naturally occurring clusters among Smartphone users.
+Clustering is an unsupervised machine learning method that aims to uncover subpopulation structures in the data without formulating a specific hypothesis. This analysis helps us to gain a deeper understanding of naturally occurring clusters among Smartphone users. By studying the clusters, the company can strategically position themselves for different market segments observed. 
 
 
 ## 2. About the Data
